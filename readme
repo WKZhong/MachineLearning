@@ -1,0 +1,7 @@
+titanic文件家里面包含文件说明：
+jcs_titanic.py:使用决策树模型对数据建模
+logistc_titanic.py：使用逻辑回归对数据建模
+logistic_regression_prediction11.csv：逻辑回归模型对测试数据的预测结果
+svm_predictions11.cvs：决策树模型对测试数据的预测结果
+test.csv：模型测试数据集
+train.csv：模型训练数据集
